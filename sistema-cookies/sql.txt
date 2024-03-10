@@ -1,0 +1,56 @@
+create database produtos;
+use produtos;
+
+create table cafe(
+	id int primary key auto_increment,
+    nome_cafe varchar(100),
+    valor decimal (5,2)
+);
+
+select * from cafe;
+select * from chocolate;
+select * from cookie;
+select * from cha;
+
+create table chocolate(
+	id int primary key auto_increment,
+    nome_chocolate varchar(100),
+    valor decimal (5,2)
+);
+
+create table cha(
+	id int primary key auto_increment,
+    nome_cha varchar(100),
+    valor decimal (5,2)
+);
+
+create table cookie(
+	id int primary key auto_increment,
+    nome_cookie varchar(100),
+    valor decimal (5,2)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
