@@ -1,0 +1,13 @@
+Linguagem de marcação
+
+SQL- linguagem de busca em banco de dados
+
+HTML- Organização e estrutura web- programas.
+
+CSS- Customização do HTML
+
+Arduino- preenche o espaço com "_" -> (underline)
+
+DNS- tema função de localizar e traduzir para números IP os endereços dos sites que digitamos nos navegadores.
+
+
