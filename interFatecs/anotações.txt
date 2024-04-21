@@ -1,0 +1,4 @@
+https://github.com/gabzintav/beecrowd/blob/main/1011.py
+--
+r ** 3 = elevado ao cubo
+a = input().split() = mais de uma variavel para o valor
