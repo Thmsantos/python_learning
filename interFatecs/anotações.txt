@@ -1,4 +1,5 @@
 https://github.com/gabzintav/beecrowd/blob/main/1011.py
+https://github.com/Loukis-13/InterFatecs/tree/master/InterFatecs2023_Fase1
 --
 r ** 3 = elevado ao cubo
 a = input().split() = mais de uma variavel para o valor
