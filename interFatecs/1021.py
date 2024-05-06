@@ -30,41 +30,43 @@
 
 n = float(input())
 
-print("%d nota(s) de R$ 100.00" % int(n/100))
+print("NOTAS:")
+print("%d nota(s) de R$ 100.00" % (n/100))
 
 n = n%100
-print("%d nota(s) de R$ 50.00" % int(n/50))
+print("%d nota(s) de R$ 50.00" % (n/50))
 
 n = n%50
-print("%d nota(s) de R$ 20.00" % int(n/20))
+print("%d nota(s) de R$ 20.00" % (n/20))
 
 n = n%20
-print("%d nota(s) de R$ 10.00" % int(n/10))
+print("%d nota(s) de R$ 10.00" % (n/10))
 
 n = n%10
-print("%d nota(s) de R$ 5.00" % int(n/5))
+print("%d nota(s) de R$ 5.00" % (n/5))
 
 n = n%5
-print("%d nota(s) de R$ 2.00" % int(n/2))
+print("%d nota(s) de R$ 2.00" % (n/2))
+
+print("MOEDAS:")
 
 n = n%2
-print("%d moeda(s) de R$ 1.00" % int(n/1))
+print("%d moeda(s) de R$ 1.00" % (n/1))
 
 n = n%1
-print("%d moeda(s) de R$ 0.50" % int(n/0.50))
+print("%d moeda(s) de R$ 0.50" % (n/0.50))
 
 n = n%0.50
-print("%d moeda(s) de R$ 0.25" % int(n/0.25))
+print("%d moeda(s) de R$ 0.25" % (n/0.25))
 
 n = n%0.25
-print("%d moeda(s) de R$ 0.10" % int(n/0.10))
+print("%d moeda(s) de R$ 0.10" % (n/0.10))
 
 n = n%0.10
-print("%d moeda(s) de R$ 0.05" % int(n/0.05))
+print("%d moeda(s) de R$ 0.05" % (n/0.05))
 
 n = n%0.05
-print("%d moeda(s) de R$ 0.01" % int(n/0.01))
-
+print("%d moeda(s) de R$ 0.01" % (n/0.01))
 
 
 
